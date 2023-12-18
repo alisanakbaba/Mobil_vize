@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447224147233",
+    "project_id": "kutuphaneotomasyonu-cb49a",
+    "storage_bucket": "kutuphaneotomasyonu-cb49a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447224147233:android:1260e913748d623edee260",
+        "android_client_info": {
+          "package_name": "com.kutuphaneotomasyon.kutuphane_otomasyon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcRx7bDuE8I6B92TAkyo-WIW7_-O75kTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
